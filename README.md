@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Josh Edmondson 
+2. Student ID: 2369726
+3. Email: jedmondson@chapman.edu
+4. Class: CPSC-298
 5. Assignment: numbers 
 
 ## Application Purpose
